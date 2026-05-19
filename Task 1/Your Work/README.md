@@ -14,29 +14,15 @@ This document follows the **IEEE SRS standard** and is intended for developers, 
 
 ## Version History
 
-Version
+In modern cities, parking has become one of the major daily challenges for drivers due to increasing vehicle density and limited parking spaces. Drivers often spend significant time searching for available parking spots, leading to traffic congestion, fuel wastage, and frustration.
 
-Description
+The **Smart Parking Management System (SPMS)** is envisioned as an intelligent and automated solution to transform the traditional parking experience into a seamless, efficient, and user-friendly process.
 
-Date
+With the integration of IoT sensors, cloud computing, and real-time data processing, SPMS continuously monitors parking space availability and provides instant updates to users. Drivers can easily locate, reserve, and pay for parking spaces using a mobile or web application without unnecessary delays.
 
-1.0
+From the perspective of city administrators and parking facility managers, SPMS offers a centralized dashboard to monitor occupancy, manage pricing dynamically, generate reports, and optimize space utilization effectively.
 
-Initial Draft
-
-May 2026
-
-1.1
-
-Added functional & non-functional requirements
-
-May 2026
-
-1.2
-
-Context diagram and appendices
-
-May 2026
+The vision of SPMS is to create smarter cities by reducing traffic congestion, improving parking efficiency, and enhancing the overall urban mobility experience through automation and real-time intelligence.
 
 ----------
 
