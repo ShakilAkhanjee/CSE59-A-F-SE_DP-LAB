@@ -59,21 +59,11 @@ The system targets:
 
 ## 1.2 Document Conventions
 
-Keyword
-
-Meaning
-
-Must
-
-Mandatory requirement
-
-Should
-
-Recommended feature
-
-May
-
-Optional feature
+| Convention | Meaning |
+|------------|--------|
+| **Must**   | Indicates a mandatory requirement that the system is required to fulfill. |
+| **Should** | Indicates a recommended requirement that improves system functionality or usability. |
+| **May**    | Indicates an optional feature or future enhancement. |
 
 ----------
 
