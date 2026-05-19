@@ -347,6 +347,7 @@ Processes online payments securely
 # 4. System Models
 
 ## 4.1 Context Diagram
+<img src="images/context diagram.png" alt="ER Diagram">
 
 
 ----------
