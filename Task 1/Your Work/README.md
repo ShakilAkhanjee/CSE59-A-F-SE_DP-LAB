@@ -125,25 +125,39 @@ SPMS is a **cloud-based IoT and web platform**. Sensors in parking lots detect a
 
 ## 2.3 User Classes and Characteristics
 
-User Type
+The Smart Parking Management System (SPMS) is designed to serve different types of users and external systems. Each user class has distinct roles, responsibilities, and access levels within the system.
 
-Description
+### 1. Driver (End User)
+- Primary users of the system who search for and reserve parking spaces.
+- Use mobile or web application to check real-time parking availability.
+- Make online payments for parking reservations.
+- Receive notifications about booking status, expiry, and availability.
+- Require a simple, fast, and user-friendly interface.
 
-Driver
+### 2. Administrator
+- Responsible for managing the entire parking system.
+- Monitors parking occupancy, sensor status, and system performance.
+- Configures parking rates, rules, and availability settings.
+- Generates reports related to usage, revenue, and system efficiency.
+- Has full access to system controls and dashboards.
 
-Searches, reserves, and pays for parking
+### 3. Parking Sensors (IoT Devices)
+- Automated devices installed in parking areas.
+- Detect vehicle presence or absence in real time.
+- Send occupancy data continuously to the system backend.
+- Require high reliability and low latency communication.
 
-Administrator
+### 4. Payment Gateway (External System)
+- Third-party service integrated into SPMS.
+- Processes secure online transactions for parking payments.
+- Validates and confirms payment status.
+- Ensures compliance with financial security standards.
 
-Manages parking lots, monitors occupancy, sets pricing
+### 5. System Maintenance Team (Optional)
+- Responsible for system updates, debugging, and maintenance.
+- Monitors logs and resolves technical issues.
+- Ensures system availability and performance.
 
-Sensor Device
-
-IoT sensors detect occupancy status and send data
-
-Payment Gateway
-
-Processes online payments securely
 
 ----------
 
